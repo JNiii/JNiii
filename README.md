@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JNiii
 - 👀 I’m interested in Python, Machine Learning, and AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Interesting projects.
 - 📫 How to reach me ...
 
 <!---
