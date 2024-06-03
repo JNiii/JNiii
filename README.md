@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JNiii
-- 👀 I’m interested in Cloud and IoT
-- 🌱 I’m currently learning Microsoft Azure administration and architecture
+- 👀 I’m interested in Cloud
+- 🌱 I’m currently learning and mastering my crafts on topics like Azure administration and architecture
 - 💞️ I’m looking to collaborate on Interesting and Innovative cloud projects.
 - 📫 You can reach me via email: ineojay@gmail.com
 
